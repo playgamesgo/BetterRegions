@@ -33,7 +33,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-@Plugin(name = "BetterRegions", version = "0.0.1")
+@Plugin(name = "BetterRegions", version = "0.0.2")
 @ApiVersion(ApiVersion.Target.v1_20)
 @Author("playgamesgo")
 public final class BetterRegions extends JavaPlugin {
